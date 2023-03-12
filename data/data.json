@@ -1,0 +1,42 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "abd elrahman 1",
+      "level": 3,
+      "GPA": 2,
+      "age": 22
+    },
+    {
+      "id": 2,
+      "name": "wael",
+      "level": 2,
+      "GPA": 5
+    },
+    {
+      "name": "eman",
+      "age": 23,
+      "level": 4,
+      "GPA": 5,
+      "id": 4
+    }
+  ],
+  "doctor": [
+    {
+      "id": 1,
+      "name": "abd elrahman 1",
+      "Course": "web design"
+      
+    },
+    {
+      "id": 2,
+      "name": "saeed",
+      "Course": "web design"
+    },
+    {
+      "id": 3,
+      "name": "abd elrahman 1",
+      "Course": "emam"
+    }
+  ]
+}
